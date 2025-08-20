@@ -1,0 +1,1 @@
+# boilerplate-nextjs-15-with-tailwindcss-v4-and-shadcn-ui
